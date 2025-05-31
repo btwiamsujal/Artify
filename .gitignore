@@ -1,5 +1,5 @@
 .env
 res.py
 media
-venv
+.venv
 img_enhancer_opencv.py
